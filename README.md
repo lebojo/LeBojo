@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 42 School and at Infomaniak (as an iOS Developer)
+- 🔭 I’m currently working at Infomaniak (as an iOS Developer)
 - 🌱 I’m currently learning Swift(UI) and Kotlin
 - 👯 I’m looking to collaborate on games and apps creation
 - 💬 Ask me about anything about Video games, and I'm pretty sure I could answer it
